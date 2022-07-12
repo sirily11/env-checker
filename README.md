@@ -1,6 +1,3 @@
-# Template repo
+# env
 
-use this repo to setup a new repo
-
-- Contains a list of standard workflows
-- Contains a release configuration file
+A description of this package.
